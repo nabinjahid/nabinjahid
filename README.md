@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/nabinjahid/portfolio/blob/main/src/assets/profileBanner.png" />
+  <img height="200" src="https://github.com/nabinjahid/protfolio/blob/main/src/assets/profileBanner.png" />
 </div>
 
 ###
