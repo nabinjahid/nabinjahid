@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="100%" src="https://github.com/nabinjahid/protfolio/blob/main/src/assets/profileBanner.png" />
+  <img height="200" src="https://github.com/nabinjahid/portfolio/blob/main/src/assets/profileBanner.png" />
 </div>
 
 ###
@@ -56,4 +56,16 @@
   <a href="https://discord.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
   </a>
+</div>
+
+###
+
+<h2 align="left">GitHub Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabinjahid&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabinjahid&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabinjahid&layout=compact&theme=radical" alt="Top Languages" />
 </div>
